@@ -1,5 +1,5 @@
 # se importa el engine
-from base_datos import engine
+from b_datos import engine
 
 # se crea la clase llamada Base que permite definir las clases bajo las
 # características de SQLAlchemy
